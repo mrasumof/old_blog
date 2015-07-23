@@ -1,11 +1,4 @@
-A Dictionary, a list, a list of dictionaries, a dictionary of lists of tuples of lists...What the heck is going on???? :)
+A Dictionary, a list, a list of dictionaries, a dictionary of lists of tuples of lists...What the heck is going on???? :relaxed:
 
-I give this plugin two :+1:!
-
-:+1!
-
-:)
-
-:D
 
 
