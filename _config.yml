@@ -8,11 +8,11 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "The making of a Data Scientist"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "The truth is out there..."
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -21,8 +21,8 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://phlow.github.io/feeling-responsive"
-baseurl: ""
+url: "https://mrasumof.github.io"
+baseurl: "mrasumof.github.io"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -87,7 +87,7 @@ defaults:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "Martin Rasumoff"
   -
     scope:
       path: ""        
@@ -96,7 +96,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "Martin Rasumoff"
 
 
 
@@ -180,7 +180,7 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #
 # used in _includes/comments.html
 
-disqus_shortname: feelingresponsive
+#disqus_shortname: feelingresponsive
 
 
 #      _____                
@@ -204,7 +204,7 @@ sass:
 #
 # used in _includes/footer_scripts.html
 
-google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: UA-65515861-1
 
 
 
