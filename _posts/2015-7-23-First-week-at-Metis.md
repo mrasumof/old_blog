@@ -1,3 +1,8 @@
+---
+layout: post
+title: My First Week at Metis!!!!
+---
+
 A Dictionary, a list, a list of dictionaries, a dictionary of lists of tuples of lists...What the heck is going on????
 
 Oh yeah! Here I am, my first day at Metis Data Science bootcamp. Happy, expectant to have formal training on a field I wanted to get into for a long time. Actually, I was interested in this field even before it was called "Data Sciences". Some years ago I almost apply to a Masters program in Belgium that was called "CRM Analytics".
